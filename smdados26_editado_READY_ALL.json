@@ -665536,13 +665536,8 @@
   "MatchData": [],
   "Meta": {
     "version": "v1.0-ready-all",
-    "generated_at_utc": "2025-10-20T23:55:09Z",
-    "notes": "Build reconstruída a partir do ZIP enviado; ligas oficiais, extras e logos aplicados.",
-    "changes": [
-      "Logos e kits atualizados: Derby, Paris Red Bull, London City",
-      "CompetitionData estava vazio → reconstruído com 50+ ligas e copas oficiais",
-      "Incluídas UEFA, CONMEBOL, Inglaterra (até League Two + Community Shield), França (até National 2), Itália, Espanha, Alemanha, Portugal, Holanda, Brasil, MLS, Argentina, Chile, Colômbia, Uruguai"
-    ],
+    "generated_at_utc": "2025-10-21T01:05:37Z",
+    "notes": "Entrega 'ALL' reconstruída a partir do ZIP enviado; ligas oficiais + extras e logos.",
     "stats": {
       "clubs_total": 6695,
       "competitions_total": 54
